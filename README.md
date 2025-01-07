@@ -1,5 +1,7 @@
 # Projeto de Análise de Dados - Cafeteria ☕
 
+![Print do dashboard](/print_dash.png)
+
 ### Descrição
 Este projeto tem como objetivo praticar e consolidar conhecimentos na área de análise de dados, utilizando dados de uma cafeteria fictícia que opera em três locais em Nova York. O projeto visa analisar as transações da cafeteria, identificar insights sobre o comportamento de compra dos clientes, e fornecer recomendações para apoiar as decisões de negócios da empresa.
 
